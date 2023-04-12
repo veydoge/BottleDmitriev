@@ -1,4 +1,4 @@
-% rebase('layout.tpl', title='Home Page', year=year)
+% rebase('layout.tpl', title='Home Page', year=year, error = error)
 
 <div class="jumbotron">
     <img src ="static\images\logo_nav.png">
@@ -34,4 +34,4 @@
         <p><input type="text" size="50" name="NAME" placeholder="Your name"></p>
         <p><input type="submit" class = "btn btn-default" value="Send"></p>
 </form>
-
+<p>{{error}}</p>

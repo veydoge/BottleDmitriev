@@ -11,7 +11,8 @@ from datetime import datetime
 def home():
     """Renders the home page."""
     return dict(
-        year=datetime.now().year
+        year=datetime.now().year,
+        error = ""
     )
 
 @route('/contact')
