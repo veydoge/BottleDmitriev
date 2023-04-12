@@ -25,7 +25,7 @@ def my_form():
 		
 
 	if (re.fullmatch("([A-Za-z0-9]+[.-_])*[A-Za-z0-9]+@[A-Za-z0-9-]+(\.[A-Z|a-z]{2,})+", mail)):
-		questions[mail] = quest
+		questions[mail] = [name, quest]
 		pdb.set_trace()
 		return f"Thanks, {name}! The answer will be sent to the mail {mail} ; Access Date: {datetime.now().date()}"
 	else:
