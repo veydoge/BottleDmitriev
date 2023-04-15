@@ -1,0 +1,33 @@
+{
+    "asdfsf@mail.ru": [
+        "asdf33aa",
+        "sadf"
+    ],
+    "sadfsadf@mail.tu": [
+        "sadf",
+        "sadfasdfasdf"
+    ],
+    "dfsa@mail.ru": [
+        "sadf",
+        "asdf"
+    ],
+    "dfsa1@mail.ru": [
+        "sadf",
+        "asdf"
+    ],
+    "dfsa12@mail.ru": [
+        "sadf",
+        "asdf",
+        "asdf",
+        "asdf",
+        "asdf"
+    ],
+    "adsf@mail.ru": [
+        "asdf",
+        "asdf"
+    ],
+    "asdf@mail.rut": [
+        "asdf",
+        "1dd"
+    ]
+}
