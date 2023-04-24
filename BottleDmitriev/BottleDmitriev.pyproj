@@ -41,6 +41,9 @@
     <Compile Include="unit_test\test_F_mail.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="unit_test\test_T_mail.py">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Include="unit_test\__init__.py">
       <SubType>Code</SubType>
     </Compile>
